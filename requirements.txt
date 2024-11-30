@@ -1,3 +1,4 @@
-opencv
 streamlit
-python
+opencv-python-headless
+pillow
+
